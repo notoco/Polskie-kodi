@@ -1,6 +1,6 @@
 # Kodi Media Center language file
 # Addon Name: Netflix
-# Addon id: plugin.video.netflix
+# Addon id: plugin.video.netflixc
 # Addon Provider: libdev + jojo + asciidisco + caphm + CastagnaIT
 msgid ""
 msgstr ""
@@ -62,7 +62,7 @@ msgstr "Nieudane logowanie"
 
 msgctxt "#30009"
 msgid "Please Check your credentials"
-msgstr "Zweryfikuj poprawność wprowadzonych danych"
+msgstr "Sprawdź dane logowania"
 
 msgctxt "#30010"
 msgid "Lists of all kinds"
